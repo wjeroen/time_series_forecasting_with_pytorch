@@ -25,7 +25,3 @@ Requirements
 - ts_loader: data loader for neural network models
 - ML_forecasting.py: general machine learning models, including SVR and RF
 - util.py: data loader
-
-## Related Repository
-
-[Time Series Forecasting using Keras](https://github.com/zhangxu0307/time-series-forecasting-keras)
